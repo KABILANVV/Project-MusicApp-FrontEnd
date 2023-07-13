@@ -1,0 +1,41 @@
+
+.topnav ul li a {
+  color: rgba(2, 50, 32, 0.667);
+  padding: 12px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.topnav ul li {
+  text-overflow:inherit ;
+  font-size: 10 px;
+}
+
+
+.topnav ul li {
+  transform: translateX(200px);
+  text-decoration: solid;
+  /* border-radius: 6px; */
+  /* box-shadow: 0px 20px 20px rgba(180, 178, 190, 0.2); */
+font-size: 30px;
+float: right;
+align-items: center;
+  /* margin-top: 1cm; */
+  padding: 20;
+  display: flex;
+  width: 200px;
+  text-decoration: none;
+  height: 30px;
+}
+.topnav {
+padding: 30px 40px 25px 40px;  
+  overflow: hidden  ;
+  /* position: fixed; */
+  /* height: 200px; */
+  /* background-image: url('bg.webp'); */
+  /* background-color: rgb(43, 255, 181);; */
+} 
+/* .topnav li a::after:hover {
+background-color: #6600ff;
+color: white;
+
+} */
